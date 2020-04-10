@@ -28,19 +28,19 @@ async function runSetup() {
       type: 'input',
       name: 'site_name',
       message: 'What is the name of your website?',
-      initial: 'Static Site Boilerplate'
+      initial: 'Dharma Dollars'
     },
     {
       type: 'input',
       name: 'site_description',
       message: 'What is a description of your website?',
-      initial: 'A modern boilerplate for static website development'
+      initial: 'Saving money with positive intentions.'
     },
     {
       type: 'input',
       name: 'site_url',
       message: 'What is the live URL for your website?',
-      hint: 'http://yourwebsite.com'
+      hint: 'https://jessicanolette.github.io/Dharma-Dollars/'
     },
     {
       type: 'input',
